@@ -8,7 +8,7 @@
          First name: <input type = "text" name = "first_name" /> 
          Last name: <input type = "text" name = "last_name" /><br/><br/> 
         User ID : <input type = "text" name = "user_id" /><br><br/> 
-        Password: <input type = "text" name = "password" /><br/><br/> 
+        Password: <input type = "password" name = "password" /><br/><br/> 
     Select Gender:  
 <input type = "radio" name = "male" value = "Male"> Male 
 <input type = "radio" name = "Female" value = "Female"> Female 
@@ -38,4 +38,5 @@
 <input type = "image" name = "imagebutton"  
 src = "D:\WebTech\Html5.png" width="70" height="80"/><br/><br/> 
 <marquee  bgcolor="violet" >WELCOME TO FORM ELEMENTS</marquee> 
+
 </form></body></html
